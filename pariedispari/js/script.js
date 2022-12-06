@@ -29,3 +29,11 @@ while (i < 2) {
 		prompt('inserisci un numero da 1 a 5');
 	}
 }
+
+//3 - generare un numero random per il computer
+function random(min, max) {
+	return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+let computer_number = random(1, 5);
+console.log(computer_number);
