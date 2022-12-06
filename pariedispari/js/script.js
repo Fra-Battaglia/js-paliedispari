@@ -37,3 +37,7 @@ function random(min, max) {
 
 let computer_number = random(1, 5);
 console.log(computer_number);
+
+//4 - somma i 2 numeri
+let sum = number + computer_number;
+console.log(sum);
