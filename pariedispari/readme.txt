@@ -5,5 +5,5 @@ L’utente sceglie pari o dispari e inserisce un numero da 1 a 5. Generiamo un n
 3 - generare un numero random per il computer
 4 - somma i 2 numeri
 5 - SE l'utente ha scelto pari e la somma dei numeri è pari mostrare il messaggio 'Hai vinto'
-		SE l'utente ha scelto dispari e la somma dei numeri è dispari mostrare il messaggio 'Hai vinto'
-	ALTRIMENTI mostrare il messaggio hai perso
+		5.1 -SE l'utente ha scelto dispari e la somma dei numeri è dispari mostrare il messaggio 'Hai vinto'
+	5.2 - ALTRIMENTI mostrare il messaggio hai perso
